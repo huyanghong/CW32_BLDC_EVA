@@ -1,0 +1,28 @@
+新建工程：https://www.bilibili.com/video/BV17a411W7zQ?spm_id_from=333.999.0.0&vd_source=2b8103bfef27a8cd7fb417d49add77f4
+
+BLDC无刷电机典型案例演示：https://www.bilibili.com/video/BV1ga411j7VN?spm_id_from=333.999.0.0
+
+BLDC无刷电机上电测试：https://www.bilibili.com/video/BV1VT411V7Q8?spm_id_from=333.999.0.0
+
+BLDC无刷电机硬件介绍：https://www.bilibili.com/video/BV1nL4y1P7UQ?spm_id_from=333.999.0.0
+
+
+BLDC电机学习参考视频部分：
+10 AD&NTC实验 参考视频:https://www.bilibili.com/video/BV1e94y117sY?spm_id_from=333.999.0.0&vd_source=2b8103bfef27a8cd7fb417d49add77f4
+
+11 CW32 BLDC haLL openspeed 参考视频：https://www.bilibili.com/video/BV1Zt4y1W7cK?spm_id_from=333.337.search-card.all.click
+
+12 CW32 BLDC haLL pid 参考视频：https://www.bilibili.com/video/BV1cF411j7iH/?spm_id_from=333.788&vd_source=2b8103bfef27a8cd7fb417d49add77f4
+
+无感控制 参考视频：https://www.bilibili.com/video/BV1mF411L74L/?spm_id_from=333.788&vd_source=2b8103bfef27a8cd7fb417d49add77f4
+
+CW32_BLDC_EVA演示视频部分：
+11 CW32 BLDC haLL openspeed 程序演示视频：https://www.bilibili.com/video/BV1zS4y1p71j?spm_id_from=333.999.0.0
+
+12 CW32 BLDC haLL pid 程序演示视频：https://www.bilibili.com/video/BV1Ft4y1h7gH?spm_id_from=333.999.0.0&vd_source=fb7cecf93d7d107e4afddce525f04d54
+
+13 CW32 BLDC sensorless openspeed 105V 演示视频：在资料文档里
+
+14 CW32 BLDC sensorless closespeed 105V 演示视频：https://www.bilibili.com/video/BV1mf4y1o7Nt?spm_id_from=333.999.0.0&vd_source=fb7cecf93d7d107e4afddce525f04d54
+
+15 CW32 BLDC haLL 综合程序演示视频：https://www.bilibili.com/video/BV1dU4y1Q7VE?spm_id_from=333.999.0.0
